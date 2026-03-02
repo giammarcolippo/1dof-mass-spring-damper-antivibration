@@ -28,7 +28,7 @@ The motion is described along the vertical direction with respect to the static 
 ## Governing Equation
 The system dynamics are governed by the following second-order differential equation:
 
-**m * x_ddot(t) + c * x_dot(t) + k * x(t) = F(t)**
+![MKC_differential_equation](figures/MKC_differential_equation.png)
 
 where:
 - **m** — mass of the supported object [kg]
