@@ -127,6 +127,3 @@ The repository contains:
 | figures/     | Simulation plots and system diagram |
 
 ---
-
-## Results Preview
-![Harmonic Force response & Transmissibility](figures/harmonic_response.png)
